@@ -1,4 +1,4 @@
-# CIFAR-10 CNN
+# CIFAR-10 图像分类
 
 一个使用 PyTorch 训练 CIFAR-10 图像分类模型的简单项目。
 
@@ -32,4 +32,3 @@ python cifar10.py
 - `cifar10.py`：数据加载、模型定义、训练与测试
 - `cifar10_cnn.pth`：已保存的模型权重
 - `test_torch.py`：检查 PyTorch、torchvision 和 CUDA 环境
-
